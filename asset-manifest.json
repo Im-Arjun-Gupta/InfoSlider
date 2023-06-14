@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InfoSlider/static/css/main.80958aa7.css",
+    "main.js": "/InfoSlider/static/js/main.7dd36db7.js",
+    "index.html": "/InfoSlider/index.html",
+    "main.80958aa7.css.map": "/InfoSlider/static/css/main.80958aa7.css.map",
+    "main.7dd36db7.js.map": "/InfoSlider/static/js/main.7dd36db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80958aa7.css",
+    "static/js/main.7dd36db7.js"
+  ]
+}
